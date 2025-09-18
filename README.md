@@ -62,6 +62,6 @@ With a strong foundation in Java, Python, and JavaScript, I build end-to-end sol
 ## 📫 Let’s Connect  
 
 💼 [LinkedIn](https://www.linkedin.com/in/g-shelcy2)  
-📧 [Email](mailto:gshelcy2@gmail.com)  
+📧 [Email](https://mail.google.com/mail/?view=cm&to=gshelcy2@gmail.com) 
 🌐 [Portfolio](https://shelcy2.github.io)  
 
