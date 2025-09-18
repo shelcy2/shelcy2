@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Shelcy Govada
+# 👋 Hi, I'm Shelcy Govada  
+💻 **Software Engineer | Full Stack Developer | ☁️ Cloud Enthusiast**  
 
-💻 **Software Engineer | Full Stack Developer | Cloud Enthusiast**  
-I specialize in building scalable web applications, designing APIs, and deploying cloud-native solutions.  
-
+I’m passionate about crafting **scalable, high-performance applications** that bridge **frontend, backend, and cloud** technologies.  
+With a strong foundation in **Java, Python, and JavaScript**, I build end-to-end solutions—from designing sleek user interfaces to architecting robust APIs and deploying to the cloud.  
 ---
 
 ## 🛠 Technical Skills  
@@ -44,16 +44,25 @@ I specialize in building scalable web applications, designing APIs, and deployin
 
 ---
 
+## 🚀 What I Love  
+✨ Tackling complex problems with clean, maintainable code  
+🤝 Collaborating in Agile teams  
+🌱 Exploring **AI/ML integration** in web apps  
+📈 Learning advanced **cloud architecture patterns**  
+
+---
+
 ## 📂 Featured Projects  
 
 - 🔗 [ToDo App](https://github.com/shelcy2/ToDo-App) – Task management app with clean UI  
 - 🔗 [Portfolio Website](https://shelcy2.github.io) – Personal portfolio showcasing my work  
 - 🔗 [More Projects](https://github.com/shelcy2?tab=repositories)  
 
-
 ---
 
-## 🌐 Connect with Me  
+## 📫 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/g-shelcy2)  
-[![Email](https://img.shields.io/badge/Email-gshelcy2@gmail.com-red?logo=gmail)](mailto:gshelcy2@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/g-shelcy2)  
+📧 [Email](mailto:gshelcy2@gmail.com)  
+🌐 [Portfolio](https://shelcy2.github.io)  
+
