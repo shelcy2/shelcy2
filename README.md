@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Shelcy Govada  
 💻 **Software Engineer | Full Stack Developer | ☁️ Cloud Enthusiast**  
 
-I’m passionate about crafting **scalable, high-performance applications** that bridge **frontend, backend, and cloud** technologies.  
-With a strong foundation in **Java, Python, and JavaScript**, I build end-to-end solutions—from designing sleek user interfaces to architecting robust APIs and deploying to the cloud.  
----
+I’m passionate about crafting scalable, high-performance applications that bridge frontend, backend, and cloud technologies.  
+With a strong foundation in Java, Python, and JavaScript, I build end-to-end solutions—from designing sleek user interfaces to architecting robust APIs and deploying to the cloud.  
 
 ## 🛠 Technical Skills  
 
